@@ -1,0 +1,6 @@
+{
+    "baseURL": "https://school.demo.moodle.net/",
+    "username": "student",
+    "password": "moodle",
+    "token": ""
+}
